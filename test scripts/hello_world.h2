@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
 <H2>
-  <SourceCode>retutn "hello o2";</SourceCode>
+  <SourceCode>return "hello world";</SourceCode>
   <ReferencedAssemblies />
 </H2>
